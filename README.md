@@ -18,7 +18,7 @@ cd go/src
 
 Clone the project using [Git](https://git-scm.com/):
 ```shell
-https://github.com/Feroxs/gogeraet.git
+git clone https://github.com/Feroxs/gogeraet.git
 ```
 
 ### Run the project
