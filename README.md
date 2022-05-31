@@ -2,7 +2,7 @@
 
 This is a keyboard driver written in [Go](https://go.dev/).
 
-[![CodeQL](https://github.com/Feroxs/gogeraet/actions/workflows/codeql.yml/badge.svg)](https://github.com/Feroxs/gogeraet/actions/workflows/codeql.yml)[![Run Go](https://github.com/Feroxs/gogeraet/actions/workflows/go.yml/badge.svg)](https://github.com/Feroxs/gogeraet/actions/workflows/go.yml)
+[![CodeQL](https://github.com/Feroxs/gogeraet/actions/workflows/codeql.yml/badge.svg)](https://github.com/Feroxs/gogeraet/actions/workflows/codeql.yml) [![Run Go](https://github.com/Feroxs/gogeraet/actions/workflows/go.yml/badge.svg)](https://github.com/Feroxs/gogeraet/actions/workflows/go.yml)
 
 # Installation
 
