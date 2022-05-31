@@ -6,7 +6,7 @@ This is a keyboard driver written in [Go](https://go.dev/).
 
 # Installation
 
-Install [Go](https://go.dev/), for example using [Windows Powershell Winget](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2](https://docs.microsoft.com/en-us/windows/package-manager/winget/):
+Install [Go](https://go.dev/), for example using [Windows Powershell Winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/):
 ```shell
 winget install golang.go
 ```
